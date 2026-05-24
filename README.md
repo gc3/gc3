@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gc3!
-- 👀 I’m interested in tabletop games, operating systems, and distributed computing in general
+- 👀 I’m interested in tabletop games, operating systems, and distributed systems in general
 - 🌱 I’m currently playing with hyprland & related things
 
 <!---
