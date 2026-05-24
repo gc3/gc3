@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gc3
-- 👀 I’m interested in d&d, machine learning, crypto, and distributed computing in general
-- 🌱 I’m currently learning how to a production engineer
+- 👋 Hi, I’m @gc3!
+- 👀 I’m interested in tabletop games, operating systems, and distributed computing in general
+- 🌱 I’m currently playing with hyprland & related things
 
 <!---
 gc3/gc3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
